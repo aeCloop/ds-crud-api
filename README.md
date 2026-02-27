@@ -30,6 +30,6 @@ API RESTful CRUD de clientes com Node.js + Express + MySQL.
 
 ### 1) Clonar e instalar
 ```bash
-git clone SEU_LINK_AQUI
+git clone https://github.com/aeCloop/ds-crud-api.git
 cd ds-crud-api
 npm install
